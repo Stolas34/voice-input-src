@@ -3,5 +3,5 @@ claude \
   --dangerously-skip-permissions \
   --output-format=stream-json \
   --verbose \
-  -p "Please implement a voice input method: hold the Fn key to record audio, release to inject the transcribed text into the input field. Streaming transcription is preferred."
+  -p "请实现一个语音输入法：按住 Fn 键录音，松开后将转录的文字注入到输入框中。优先使用流式转录。需要支持中文输入。"
 ```
